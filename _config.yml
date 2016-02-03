@@ -1,6 +1,6 @@
 name: Montezuma
 favicon: null
-layout_spectrum: 0.9079010726418346
+layout_spectrum: 0.6586
 typography_spectrum: 0.1541815917007625
 title: Įrašai apie Įrašus
 cta:
@@ -22,8 +22,8 @@ color:
     - '#6a8cab'
     - '#4b6672'
     - '#020300'
-  brandStrength: 0.4893599518109113
-  lightness: 0.9239412322640419
+  brandStrength: 0.25
+  lightness: 0.1875
   saturation: 0.19953482248820364
-  rhythmicContrast: 0.158321816008538
+  rhythmicContrast: 0.5
 purpose: []
