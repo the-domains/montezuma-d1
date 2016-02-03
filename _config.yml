@@ -1,0 +1,29 @@
+name: Montezuma(d1)
+favicon: null
+layout_spectrum: 0.9079010726418346
+typography_spectrum: 0.1541815917007625
+title: Įrašai apie Įrašus
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.4893599518109113
+  lightness: 0.9239412322640419
+  saturation: 0.19953482248820364
+  rhythmicContrast: 0.158321816008538
+purpose: []
